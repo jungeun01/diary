@@ -2,7 +2,7 @@
   "name": "12-diary",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/jungeun01/diary",
+  "homepage": "https://jungeun01.github.io/diary",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "@testing-library/jest-dom": "^5.17.0",
