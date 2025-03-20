@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diary/static/css/main.12b3ee06.css",
+    "main.js": "/diary/static/js/main.f21bc0e4.js",
+    "index.html": "/diary/index.html",
+    "main.12b3ee06.css.map": "/diary/static/css/main.12b3ee06.css.map",
+    "main.f21bc0e4.js.map": "/diary/static/js/main.f21bc0e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12b3ee06.css",
+    "static/js/main.f21bc0e4.js"
+  ]
+}
